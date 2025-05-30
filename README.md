@@ -57,4 +57,9 @@ Clean, minimal, and made for devs who care about workflow. 💼✨
 
 ---
 
+## 🌐 Languages
+
+### 📄 [Español](https://github.com/ArkkyDev/arky-addons/blob/main/README_ES.md)
+---
+
 📄 [MIT License](https://github.com/ArkkyDev/arky-addons/blob/main/LICENSE)
