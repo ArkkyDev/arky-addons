@@ -46,7 +46,7 @@ Clean, minimal, and made for devs who care about workflow. 💼✨
 4. Enable it inside `Project > Project Settings > Plugins`.
 
 ### 🧳 GitHub Releases
-1. Download a [release build](link/).
+1. Download a [release build](https://github.com/ArkkyDev/arky-addons/releases/tag/v1.0.0).
 2. Extract the zip and move `addons/arky_addons` into your project root.
 3. Enable the plugin inside `Project > Project Settings > Plugins`.
 
